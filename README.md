@@ -1,7 +1,7 @@
 Instagram Hasher
 ==========
 
-A script to help you generate hashtags for you instgram picture
+A script to help you generate hashtags for your instgram picture
 
 
 ## Usage
